@@ -2,6 +2,10 @@
 
 Exemplo de uma aplicação criada para ser distribuída utilizando Docker.
 
+# Teste de Branch DEV
+
+ISTO É UM TESTE
+
 # Develop, Ship e Run
 
 Veja um exemplo de conteúdo de um Dockerfile:
